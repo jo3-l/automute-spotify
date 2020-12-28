@@ -1,0 +1,16 @@
+{
+  "name": "automute-spotify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-powershell": "^4.0.0",
+    "win-audio": "^2.0.2"
+  }
+}
